@@ -6,7 +6,7 @@ PSUGalaxy is a 2D space-themed game built using [Phaser.js](https://phaser.io/),
 - 🚀 **Physics-based spaceship movement**
 - 🌌 **Procedurally generated galaxies**
 - 🔥 **Combat and power-ups**
-- 🎮 **Keyboard and mouse controls**
+- 🎮 **Touch screen event control**
 - 🎵 **Background music and sound effects**
 
 ## Technologies Used
